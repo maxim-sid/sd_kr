@@ -147,6 +147,8 @@ main{
   top: 25%;
   z-index: 1;
   margin-left: 50px;
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .card-content-first{
@@ -582,7 +584,8 @@ main{
   min-height: 372px;
   position: absolute;
   z-index: 1;
-  margin-left: 50px;
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .under-photo-bg-red{
@@ -980,7 +983,8 @@ margin-left: 50px;
       position: absolute;
       top: 25%;
       z-index: 1;
-      margin-left: 50px;
+      background-size: cover;
+      background-position: 50% 50%;
     }
     
 
@@ -1323,7 +1327,6 @@ margin-left: 50px;
     
     .card-content-first{
       grid-area: text1;
-      margin-left: 100px;
       margin-top: 100px;
       text-align: center;
     }
@@ -1371,7 +1374,8 @@ margin-left: 50px;
       position: absolute;
       top: 25%;
       z-index: 1;
-      margin-left: 50px;
+      background-size: cover;
+      background-position: 50% 50%;
     }
     
 
@@ -1393,7 +1397,6 @@ margin-left: 50px;
     .card-content-second{
       grid-area: text2;
       margin-top: 100px;
-      margin-right: 100px;
       text-align: center;
     }
     
